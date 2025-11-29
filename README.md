@@ -23,7 +23,7 @@ A simple Windows Forms application built with **C#** to generate secure random p
 
 ## 📷 Preview
 
-![](C:\Users\ibrah\Masaüstü\files\ProjectEachDiff\CSharpProjects\06_passwordCreationProject\png.1)
+![](C:\Users\ibrah\Masaüstü\files\ProjectEachDiff\CSharpProjects\06_passwordCreationProject\1.png)
 
 
 
@@ -35,7 +35,7 @@ A simple Windows Forms application built with **C#** to generate secure random p
 
 
 
-![](C:\Users\ibrah\Masaüstü\files\ProjectEachDiff\CSharpProjects\06_passwordCreationProject\png.2)
+![](C:\Users\ibrah\Masaüstü\files\ProjectEachDiff\CSharpProjects\06_passwordCreationProject\2.png)
 
 
 
@@ -45,4 +45,4 @@ A simple Windows Forms application built with **C#** to generate secure random p
 
 
 
-![](C:\Users\ibrah\Masaüstü\files\ProjectEachDiff\CSharpProjects\06_passwordCreationProject\png.3)
+![](C:\Users\ibrah\Masaüstü\files\ProjectEachDiff\CSharpProjects\06_passwordCreationProject\3.png)
